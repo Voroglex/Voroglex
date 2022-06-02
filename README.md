@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voroglex)](https://git.io/streak-stats)
           
-[![Codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Lovkost)
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Voroglex)
 
 <h1> Стек: </h1>
 
