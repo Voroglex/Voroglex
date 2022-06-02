@@ -2,6 +2,6 @@
 <h1> Немного статистики </h1>
 <img src="https://c.tenor.com/kq-3WlvkAAAAAAAi/praise-the-sun-dark-souls.gif" height="50" align="center"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voroglex)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voroglex)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Lovkost)
