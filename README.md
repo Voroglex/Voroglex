@@ -5,9 +5,9 @@
   <img src="https://c.tenor.com/kq-3WlvkAAAAAAAi/praise-the-sun-dark-souls.gif" height="50" align="center"/> </div>
 <h1 align="center"> Немного статистики </h1>
 
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voroglex)](https://git.io/streak-stats)
-
+</div>
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Lovkost)
 
 <h1> Стек: </h1>
