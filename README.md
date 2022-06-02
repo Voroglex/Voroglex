@@ -5,3 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voroglex)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Lovkost)
+
+<h1> Стек: </h1>
+
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
